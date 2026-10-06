@@ -17,6 +17,8 @@ image blendingusing Gaussian pyramid and Laplacian pyramid
 <img width="740" height="530" alt="burt_mask" src="https://github.com/user-attachments/assets/27fb6f3a-cc00-49b2-9665-7863ae321803" />
 
 # result
+<img width="728" height="496" alt="402795717-f526c454-7262-47ed-bfc3-870cab341e3f" src="https://github.com/user-attachments/assets/a65ae257-3f08-41e4-b570-f3a7c9a8e7e1" />
+
 
 
 
