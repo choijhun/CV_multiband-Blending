@@ -1,11 +1,9 @@
 # CV_multiband-Blending
-image blendingusing Gaussian pyramid and Laplacian pyramid
-- C++ / OpenCV 사용
-- 입력 이미지 및 mask를 float 형식으로 변환 및 정규화
-- Apple / Orange 이미지의 Laplacian Pyramid 생성
-- Mask 및 inverse mask의 Gaussian Pyramid 생성
-- 각 pyramid level에서 mask 기반 blending 수행
-- Blended pyramid를 reconstruction하여 최종 이미지 생성
+
+두장의 이미지를 하나의 경계에서 잘라붙이는 대신,
+Laplacian Pyramid , Gaussian Pyramid를 이용하여
+서로 다른 주파수 영역에서 이미지를 자연스럽게 합성.
+
 
 # apple
 <img width="370" height="265" alt="burt_apple" src="https://github.com/user-attachments/assets/522a26c9-b596-4932-9816-db0f0bcd8116" />
